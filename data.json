@@ -3,5 +3,46 @@
     "name":"chaitanya Kumar",
     "label":"PvP Student",
     "email":"chaituy16@gmail.com"
-  }
+  },
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+  },
+  "education":[
+    {
+    "degree":"B.Tech(Information Technology)",
+    "institute":"PvP Siddhartha Institute of Technology ",
+    "data":["2016-20","90%"]
+  },
+  {
+  "degree":"Intermediate(M.P.C)",
+  "institute":"Sri chaitanya Jr.College ",
+  "data":["2014-16","96%"]
+},
+{
+"degree":"SSC",
+"institute":"Kalyan Creative Educational Institutions ",
+"data":["2014","95%"]
+}
+],
+"skills":[
+  {
+    "title":"languages",
+    "content":["C","Python","Java","C#","C++","R"]
+  },
+
+    {
+      "title":"DataBase",
+      "content":["SQL","MongoDB","Mysql"]
+    },
+
+      {
+        "title":"web-Technologies",
+        "content":["HTML","CSS","JavaScript"]
+      },
+
+        {
+          "title":"Frameworks",
+          "content":["Django","CodeIgniter"]
+        }
+]
 }

@@ -16,7 +16,7 @@ background-color: orange;
 }
 .childtwo{
   width: 50%%;
-  text-shadow: 4px 4px 4px #1C6EA4;
+  background-color:skyblue;
   text-align:center;
   font-size: 40;
   padding: 2%;
@@ -87,10 +87,11 @@ img{
   text-align:center;
   font-size: 40;
   padding: 2%;
-  border: 1px solid #ddd;
+  border: 1px solid red;
   margin: 2%;
   border-radius: 30px;
   background-color: yellow;
+  box-shadow: 2px 2px 4px red;
 }
 }
 @media only screen and (min-width:769px) and (max-width:1024px){
